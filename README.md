@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carson Halter</h1>
-<h3 align="center">A Smart Contract Developer from Canada passionate about decentralized solutions</h3>
+<h3 align="center">A Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah311" alt="cah311" /></a> </p>
 
