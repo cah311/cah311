@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Carson Halter</h1>
-<h3 align="center">A Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions</h3>
+<h1 align="center">Carson Halter</h1>
+<h3 align="center">A self taught Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions. Looking to make an impact in the Web3 ecosystem</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah311" alt="cah311" /></a> </p>
+
 
 - 🔭 I’m currently enrolled in [Encode Club Solidity Expert Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cah311&show_icons=true&locale=en&layout=compact" alt="cah311" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cah311&show_icons=true&locale=en" alt="cah311" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah311&theme=gruvbox&row=1&margin-w=15" alt="cah311" /></a> </p>
