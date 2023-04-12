@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently enrolled in [Encode Club Solidity Expert Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 
-- 🌱 I’m currently learning **Solidty, Hardhat, TypeScript, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/cah311](https://github.com/cah311)
 
 - 📫 How to reach me **c_halter@live.ca**
