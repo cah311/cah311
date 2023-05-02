@@ -1,5 +1,5 @@
 <h1 align="center">Carson Halter</h1>
-<h3 align="center">A self taught Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions. Looking to make an impact in the Web3 ecosystem</h3>
+<h3 align="center">Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions. Looking to make an impact in the Web3 ecosystem</h3>
 
 
 
