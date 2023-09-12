@@ -1,9 +1,9 @@
 <h1 align="center">Carson Halter</h1>
-<h3 align="center">Smart Contract Developer from Canada passionate about blockchain technology and decentralized solutions. Looking to make an impact in the Web3 ecosystem</h3>
+<h3 align="center">Full Stack Smart Contract Developer from Canada passionate about programming, blockchain technology and decentralized solutions. Looking to join an impactful role in tech</h3>
 
 
 
-- 🔭 I’m currently enrolled in [Encode Club Solidity Expert Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
+- 🔭 Graduate of [Encode Club Solidity Expert Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cah311](https://github.com/cah311)
 
