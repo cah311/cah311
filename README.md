@@ -1,5 +1,5 @@
 <h1 align="center">Carson Halter</h1>
-<h3 align="center">Full Stack Smart Contract Developer from Canada passionate about programming, blockchain technology and decentralized solutions. Looking to join an impactful role in tech</h3>
+<h3 align="center"></h3>
 
 
 
