@@ -10,13 +10,12 @@
 
 ### 👋 About Me
 
-I'm a blockchain developer and **CIM-licensed Financial Consultant** (Chartered Investment Manager) with a background managing $100M+ in AUM for high-net-worth clients. 
+I'm a blockchain developer and **CIM-licensed Financial Consultant** (Chartered Investment Manager) with 9 years of experience in wealth management and investment portfolio construction. 
 
 - 🛠️ Built [**Snowlaunch.io**](https://snowlaunch.io) — a Pump.fun-style token launchpad deployed on Avalanche
 - 🍽️ Built [**BestFoodApp.com**](https://BestFoodApp.com) — a community-driven MERN stack app for crowdsourced restaurant ratings and curated dining guides across cities
 - 🎓 Graduate of the [Encode Club Expert Solidity Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 - 🔐 Currently completing Cyfrin Updraft: **Smart Contract Security Auditor**, **Advanced Foundry** , **Qualified Web3 Signer**
-- 🏦 9 years in retail wealth management | Financial Consultant | Investment Advisor
 - 📊 **CIM** designation  | **CFP** in progress (Jun 2026) | Bachelor of Commerce
 - 📫 Reach me at **c_halter@live.ca**
 
