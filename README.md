@@ -17,7 +17,7 @@ I'm a blockchain developer and **CIM-licensed Financial Consultant** (Chartered 
 - 🎓 Graduate of the [Encode Club Expert Solidity Bootcamp](https://www.encode.club/expert-solidity-bootcamp)
 - 🔐 Currently completing Cyfrin Updraft: **Smart Contract Security Auditor**, **Advanced Foundry** , **Qualified Web3 Signer**
 - 📊 **CIM** designation  | **CFP** in progress (Jun 2026) | Bachelor of Commerce
-- 📫 Reach me at **c_halter@live.ca**
+- 📫 Reach me on X **x.com/cahweb3code**
 
 ---
 
